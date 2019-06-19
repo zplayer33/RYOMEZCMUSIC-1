@@ -1,5 +1,5 @@
 owner=540649878771073045
-prefix=1
+prefix= 1
 game=1play made by hazemplay
 stayinchannel=true
 songinstatus=false
