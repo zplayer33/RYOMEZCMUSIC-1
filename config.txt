@@ -1,6 +1,6 @@
-owner=445325191732789248
+owner=540649878771073045
 prefix=1
 game=1play made by hazemplay
 stayinchannel=true
 songinstatus=false
-token=NTkwODg0MzQ4OTUwMjE2NzA0.XQouCQ.2oP2osxZMeELBslXcZslLRdnLGo
+token=NTkwODg0MzQ4OTUwMjE2NzA0.XQowKw.l8maYGitPuk_K-CM7cRz-KVf_Rc
